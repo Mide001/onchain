@@ -1,0 +1,37 @@
+
+   .jumbotron { 
+       
+        color: #fff; /* set text color to white */
+        padding: 2rem; /* add some padding to the jumbotron */
+        border-radius: 0.5rem; /* add some border radius to the jumbotron */
+        margin: 2rem 0; /* add some margin to the jumbotron */
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); /* add a box shadow to the jumbotron */
+  }
+    .jumbotron h1 {
+        color: #007bff; /* change header text color to blue */
+        font-family: Arial, sans-serif; /* change header font family */
+        font-size: 2rem; /* change header font size */
+    }
+    .jumbotron p {
+        color: #6c757d; /* change paragraph text color to gray */
+        font-family: Arial, sans-serif; /* change paragraph font family */
+        font-size: 1rem; /* change paragraph font size */
+    }
+    .container {
+        margin-top: 50px;
+      }
+      
+      .form-group label {
+        font-weight: bold;
+      }
+      
+      p {
+        margin-top: 20px;
+        font-size: 16px;
+      }
+
+      .container h6 {
+        padding: 20px 0px 0px 0px;
+        font-weight: bold;
+        color: #6c757d;
+      }
